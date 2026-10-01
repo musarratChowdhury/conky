@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=KR Labs Conky
+Comment=CPU and RAM monitor
+Exec=/home/m/.config/conky/start-krlabs.sh -n
+Terminal=false
+X-GNOME-Autostart-enabled=true
